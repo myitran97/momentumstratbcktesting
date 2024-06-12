@@ -6,7 +6,7 @@ This project aims to backtest a momentum trading strategy on the VN30 Index, whi
 Understand the VN30 Index: Analyze the composition and characteristics of the VN30 Index.\
 Implement a Momentum Strategy: Develop and apply a momentum-based trading strategy to the VN30 Index.\
 Backtest the Strategy: Utilize historical data to backtest the strategy and evaluate its performance.\
-Analyze Results: Interpret the results to understand the strategy's profitability, risk, and overall performance.\
+Analyze Results: Interpret the results to understand the strategy's profitability, risk, and overall performance.
 ### Key Components
 #### Data Collection:
 
@@ -22,4 +22,4 @@ Analyze Results: Interpret the results to understand the strategy's profitabilit
 - Calculate key performance metrics (e.g., returns, drawdowns, Sharpe ratio).
 #### Performance Analysis:
 
-Compare the strategy's performance against a buy-and-hold benchmark.\
+Compare the strategy's performance against a buy-and-hold benchmark.
